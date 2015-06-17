@@ -49,7 +49,7 @@ run_test
 NAME='rahash2 -h'
 CMDS='!rahash2~Usage'
 BROKEN=
-EXPECT='Usage: rahash2 [-rBhLkv] [-b sz] [-a algo] [-s str] [-f from] [-t to] [file] ...
+EXPECT='Usage: rahash2 [-rBhLkv] [-b sz] [-a algo] [-sE str] [-f from] [-t to] [file] ...
 '
 
 run_test
